@@ -1,16 +1,18 @@
 # PWC Power BI Virtual work experience- Call Centre Trends-
+
 The PwC Power BI virtual work experience provides an immersive opportunity to explore call center trends through interactive dashboards. This dashboard allows users to visualize key metrics and insights related to call center performance, including call volume, wait times, customer satisfaction scores, and agent productivity. 
 
 Problem Statement :
+
 In this project Create a dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 Possible KPIs include (but not limited to):
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+1. Overall customer satisfaction
+2. Overall calls answered/abandoned
+3. Calls by time
+4. Average speed of answer
+5. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 Datasource :
 Dataset used for this task was presented by Pwc and call centre trends dataset:
