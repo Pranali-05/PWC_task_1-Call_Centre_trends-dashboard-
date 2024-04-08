@@ -28,16 +28,16 @@ Dataset: Call Centre Trends
 
 The Call Centre Trends dashboard offers a comprehensive overview of key metrics and insights relevant to call center operations. It provides real-time data visualization on various aspects of call center performance, including:
 
-Call Volume: Tracks the number of incoming calls over time, allowing supervisors to identify peak hours and allocate resources efficiently.
+1. Call Volume: Tracks the number of incoming calls over time, allowing supervisors to identify peak hours and allocate resources efficiently.
 
-Average Wait Time: Displays the average time customers spend in the queue before speaking with an agent, helping managers monitor and manage service levels.
+2. Average Wait Time: Displays the average time customers spend in the queue before speaking with an agent, helping managers monitor and manage service levels.
 
-First Call Resolution Rate: Measures the percentage of customer issues resolved during the initial call, indicating the effectiveness of agents and processes in addressing customer needs promptly.
+3. First Call Resolution Rate: Measures the percentage of customer issues resolved during the initial call, indicating the effectiveness of agents and processes in addressing customer needs promptly.
 
-Customer Satisfaction Scores: Presents customer feedback ratings and sentiment analysis to gauge overall satisfaction levels and identify areas for improvement.
+4. Customer Satisfaction Scores: Presents customer feedback ratings and sentiment analysis to gauge overall satisfaction levels and identify areas for improvement.
 
-Agent Performance: Provides insights into individual agent performance metrics such as call handling time, call resolution rates, and customer satisfaction scores, facilitating performance evaluation and coaching opportunities.
+5. Agent Performance: Provides insights into individual agent performance metrics such as call handling time, call resolution rates, and customer satisfaction scores, facilitating performance evaluation and coaching opportunities.
 
-Call Outcome Analysis: Breaks down call outcomes into categories such as resolved, escalated, or unresolved, enabling managers to understand the reasons behind call resolutions and take proactive measures to address recurring issues.
+6. Call Outcome Analysis: Breaks down call outcomes into categories such as resolved, escalated, or unresolved, enabling managers to understand the reasons behind call resolutions and take proactive measures to address recurring issues.
 
 By leveraging this dashboard, call center managers can make data-driven decisions, optimize resource allocation, improve service quality, and ultimately enhance customer satisfaction and loyalty.
